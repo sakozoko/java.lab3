@@ -19,7 +19,7 @@ public class Main {
                         {1,15,129},
                         {102,7,9}
                 };
-        double[][] t4 = new double [][]
+        double[][] t4 = new double [][] 
                 {
                         {1,2,3},
                         {1,15,12},
